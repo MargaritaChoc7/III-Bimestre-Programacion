@@ -1,0 +1,40 @@
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: beige;
+    border-radius: 5px;
+}
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(248, 228, 241);
+    border-radius: 4px;
+}
+
+button {
+    background-color: rgb(46, 74, 99);
+    color: beige;
+    padding: 10px 2opx;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: chartreuse;
+}

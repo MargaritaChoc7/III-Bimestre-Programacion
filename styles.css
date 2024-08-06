@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a06ba5;
+    color: #3d1c5c;
+}
+
+
+
+header {
+    background-color: #52215e;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 10px;
+}
+
+.movie {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.movie img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}
+
+
+/* Cambiar la fuente de todo el cuerpo de la página */
+body {
+    font-family: Dancing Script, sans-serif;
+}
+
+/* Cambiar la fuente de los encabezados (h1, h2, etc.) */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Pacifico', serif;
+}
+
+/* Cambiar la fuente de los párrafos */
+p {
+    font-family: 'Pacifico', sans-serif;
+}
+
+
+.custom-text {
+    font-family: 'Dancing Script', Courier, monospace;
+}
